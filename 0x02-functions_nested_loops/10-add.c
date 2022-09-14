@@ -6,9 +6,5 @@
 
 int add(int a, int b)
 {
-	int r;
-
-	r = a + b;
-	_putchar(r);
-	return (0);
+	return (a + b);
 }
