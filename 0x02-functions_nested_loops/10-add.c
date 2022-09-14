@@ -4,7 +4,7 @@
 * Return: o when function executes
 */
 
-int add(int, int)
+int add(int a, int b)
 {
 	int r;
 
