@@ -1,8 +1,5 @@
-xecutable File  13 lines (12 sloc)  228 Bytes
-
 #include <stdio.h>
 #include <stdlib.h>
-
 /**
  * main - Entry point
  * Return: Always 1 (Success)
